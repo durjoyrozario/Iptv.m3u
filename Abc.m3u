@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star jalsha HD" tvg-logo="http://zee5.mw.lt/Abcd/star-jalsha2.png" group-title=" ",স্টার জলসা এইচডি 
-http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282019%29/The%20Curse%20of%20La%20Llorona%20%282019%29%20720p%20%5BDual%20Audio%5D/The%20Curse%20of%20La%20Llorona%20%282019%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkvay.800MB.x264-GalaxyRG.mkv
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/The%20Curse%20of%20La%20Llorona%20%282019%29%201080p/The.Curse.of.La.Llorona.2019.1080p.BRRip.x264-MkvCage.Com.mkv
 
 #EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা(সানপ্লেক্স)" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা(সানপ্লেক্স) 
 http://103.179.25.147:8181/zeeBangla/index.m3u8
