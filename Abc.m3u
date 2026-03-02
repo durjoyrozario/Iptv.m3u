@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star jalsha HD" tvg-logo="http://zee5.mw.lt/Abcd/star-jalsha2.png" group-title=" ",স্টার জলসা এইচডি 
-https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282019%29/The%20Deeper%20You%20Dig%20%282019%29%20720p/The.Deeper.You.Dig.2019.720p.BluRay.800MB.x264-GalaxyRG.mkv
 
 #EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা(সানপ্লেক্স)" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা(সানপ্লেক্স) 
 http://103.179.25.147:8181/zeeBangla/index.m3u8
