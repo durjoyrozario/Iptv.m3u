@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
-EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা12
+#EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা12
 http://172.21.20.222:8080/Zeebangla-1/index.m3u8
 
 #EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা2 
