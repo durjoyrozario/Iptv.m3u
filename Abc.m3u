@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
-EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা
+EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা1
 http://172.21.20.222:8080/Zeebangla-1/index.m3u8
 
-#EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা(সানপ্লেক্স) 
+#EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা2 
 http://172.16.29.194:8090/hls/ZeeBanglaHD.m3u8
 
 
-#EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা(সানপ্লেক্স) 
+#EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা3) 
 http://172.20.3.1:3255/ZeeBangla/index.m3u8
 
-#EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা(সানপ্লেক্স) 
+#EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা(সানপ্লেক্স)4 
 http://103.89.248.130:8082/zee-bangla/index.m3u8
 
 
-#EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা(সানপ্লেক্স) 
+#EXTINF:-1 tvg-id="625"  tvg-name="জি বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/zee-bangla2.png" group-title="live",জি বাংলা(সানপ্লেক্স)5 
 http://172.16.29.34:80/ontest1/ontest1/556
 
 #EXTINF: -1 tvg-id="(no tvg-id)"  tvg-logo="http://zee5.mw.lt/Abcd/sony-aath-new.png" group-title="", সনি আট সানপ্লেক্স
