@@ -107,27 +107,49 @@ http://172.20.3.1:3255/CH24/index.m3u8
 http://172.20.3.1:3255/JAMUNATV/index.m3u8
 #EXTINF:-1 tvg-name="চ্যানেল আই" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="live",চ্যানেল আই
 http://172.20.3.1:3255/chnnel-i/index.m3u8
+#EXTINF:-1 tvg-name="ইন্ডিপেন্ডেন্ট টেলিভিশন" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="live", ইন্ডিপেন্ডেন্ট টেলিভিশন
 http://172.16.29.2:8090/hls/IndependentTV.m3u8
+#EXTINF:-1 tvg-name="বিটিভি" tvg-logo="https://sunplex.net/iptv/logo/btv.jpg" group-title="live", বিটিভি
 http://103.89.248.130:8082/BTV/index.m3u8
+#EXTINF:-1 tvg-name="বিটিভি" tvg-logo="https://sunplex.net/iptv/logo/btv.jpg" group-title="live", বিটিভি
 http://172.21.20.222:8080/dbcnews/index.m3u8
+#EXTINF:-1 group-title="বিনোদন" tvg-logo="http://zee5.mw.lt/Abcd/cb.png",কালার্স বাংলা
 http://103.89.248.130:8082/ENTER-10-BANGLA/index.m3u8
+#EXTINF:-1 group-title="বিনোদন" tvg-logo="http://zee5.mw.lt/Abcd/cb.png",কালার্স বাংলা
 http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
-http://103.89.248.130:8082/en3-35/index.m3u8 sony spo 1
+#EXTINF:-1 tvg-name="সনি টেন 1(সানপ্লেক্স)" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-1.jpg" group-title="স্পোর্টস",সনি টেন 1
+http://103.89.248.130:8082/en3-35/index.m3u8
+#EXTINF:-1 tvg-name="স্কাইনেট স্পোর্টস HD(সানপ্লেক্স)" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-hd.jpg" group-title="স্পোর্টস",স্কাইনেট স্পোর্টস HD
 http://103.89.248.130:8082/SPORTS-18/index.m3u8
-http://103.89.248.130:8082/en3-39/index.m3u8 star sports 3
+#EXTINF:-1 tvg-name="স্কাইনেট স্পোর্টস HD(সানপ্লেক্স)" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-hd.jpg" group-title="স্পোর্টস",স্কাইনেট স্পোর্টস HD
+http://103.89.248.130:8082/en3-39/index.m3u8
+#EXTINF:-1 group-title="বিনোদন" tvg-logo="http://zee5.mw.lt/Abcd/plus.png",স্টার প্লাস
 http://172.21.20.222:8080/starplus/index.m3u8
+#EXTINF:-1 group-title="মিউজিক" tvg-logo="https://i.imgur.com/TNk56Ai.png", সঙ্গীত বাংলা
 http://172.16.29.2:8090/hls/SangeetBangla.m3u8
+#EXTINF:-1 group-title="বিনোদন" tvg-logo="http://zee5.mw.lt/Abcd/plus.png",স্টার প্লাস
 http://172.16.29.2:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 tvg-name="ম্যাক্স 2(সানপ্লেক্স)" tvg-logo="https://sunplex.net/iptv/logo/sony-max-2.jpg" group-title="live",ম্যাক্স 2 (সানপ্লেক্স)
 http://172.16.29.2:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 tvg-name="জি টিভি এইচডি" tvg-logo="http://zee5.mw.lt/Abcd/zeetv.png" group-title="live",জি টিভি এইচডি
 http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
+#EXTINF:-1 tvg-name="সনি HD(সানপ্লেক্স)" tvg-logo="http://zee5.mw.lt/Abcd/set2.png" group-title="live",সনি HD(সানপ্লেক্স)
 http://172.16.29.2:8090/hls/SonyHD.m3u8
+#EXTINF:-1 tvg-name="জি সিনেমা" tvg-logo="http://zee5.mw.lt/Abcd/zee-cinema.png" group-title="live", জি সিনেমা
 http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
+#EXTINF:-1 tvg-name="জি সিনেমা" tvg-logo="http://zee5.mw.lt/Abcd/zee-cinema.png" group-title="live", জি সিনেমা
 http://172.20.3.1:3255/ZeeCinemaHD/index.m3u8
+#EXTINF:-1 tvg-name="সনি HD(সানপ্লেক্স)" tvg-logo="http://zee5.mw.lt/Abcd/set2.png" group-title="live",সনি HD(সানপ্লেক্স)
 http://172.21.20.222:8080/sony/index.m3u8
+#EXTINF:-1 tvg-name="সনি HD(সানপ্লেক্স)" tvg-logo="http://zee5.mw.lt/Abcd/set2.png" group-title="live",সনি HD(সানপ্লেক্স)
 http://172.20.3.1:3255/SonyEntertainmentTelevisionHD/index.m3u8
+#EXTINF:-1 tvg-name="জি টিভি এইচডি" tvg-logo="http://zee5.mw.lt/Abcd/zeetv.png" group-title="live",জি টিভি এইচডি
 http://103.89.248.130:8082/zee-tv-hd/index.m3u8
+#EXTINF:-1 tvg-name="জি টিভি এইচডি" tvg-logo="http://zee5.mw.lt/Abcd/zeetv.png" group-title="live",জি টিভি এইচডি
 http://172.21.20.222:8080/zeetv/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://103.89.248.130:8082/STAR-SPORTS-2/index.m3u8
+#EXTINF:-1 tvg-name="জি টিভি এইচডি" tvg-logo="http://zee5.mw.lt/Abcd/zeetv.png" group-title="live",জি টিভি এইচডি
 http://103.89.248.130:8082/Zee-Cinema-HD/index.m3u8
 http://103.89.248.130:8082/T-SPORTS/index.m3u8
 http://172.21.20.222:8080/TSports-3/index.m3u8
@@ -135,17 +157,29 @@ http://172.21.20.222:8080/TSports-2/index.m3u8
 http://172.21.20.222:8080/TSports-1/index.m3u8
 http://172.16.29.2:8090/hls/tsportshd.m3u8
 http://172.20.3.1:3255/tspots_combo/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.16.29.2:8090/hls/BeinSports1ENG.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.16.29.2:8090/hls/tensportshd.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://103.89.248.130:8082/STAR-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.21.20.222:8080/PTV/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.16.29.2:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.21.20.222:8080/sonysports1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.21.20.222:8080/stersports1hd/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.20.3.1:3255/StarSports1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.16.29.2:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://103.89.248.130:8082/star-gold/index.m3u8
 http://103.89.248.130:8082/SONY-MAX/index.m3u8
 http://103.89.248.130:8082/DBC-NEWS/index.m3u8
