@@ -151,11 +151,17 @@ http://172.21.20.222:8080/zeetv/index.m3u8
 http://103.89.248.130:8082/STAR-SPORTS-2/index.m3u8
 #EXTINF:-1 tvg-name="জি টিভি এইচডি" tvg-logo="http://zee5.mw.lt/Abcd/zeetv.png" group-title="live",জি টিভি এইচডি
 http://103.89.248.130:8082/Zee-Cinema-HD/index.m3u8
+#EXTINF:-1 tvg-name="টি স্পোর্টস (সানপ্লেক্স)" tvg-logo="https://sunplex.net/iptv/logo/t-sports.jpg" group-title="স্পোর্টস",টি স্পোর্টস
 http://103.89.248.130:8082/T-SPORTS/index.m3u8
+#EXTINF:-1 tvg-name="টি স্পোর্টস (সানপ্লেক্স)" tvg-logo="https://sunplex.net/iptv/logo/t-sports.jpg" group-title="স্পোর্টস",টি স্পোর্টস
 http://172.21.20.222:8080/TSports-3/index.m3u8
+#EXTINF:-1 tvg-name="টি স্পোর্টস (সানপ্লেক্স)" tvg-logo="https://sunplex.net/iptv/logo/t-sports.jpg" group-title="স্পোর্টস",টি স্পোর্টস
 http://172.21.20.222:8080/TSports-2/index.m3u8
+#EXTINF:-1 tvg-name="টি স্পোর্টস (সানপ্লেক্স)" tvg-logo="https://sunplex.net/iptv/logo/t-sports.jpg" group-title="স্পোর্টস",টি স্পোর্টস
 http://172.21.20.222:8080/TSports-1/index.m3u8
+#EXTINF:-1 tvg-name="টি স্পোর্টস (সানপ্লেক্স)" tvg-logo="https://sunplex.net/iptv/logo/t-sports.jpg" group-title="স্পোর্টস",টি স্পোর্টস
 http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-name="টি স্পোর্টস (সানপ্লেক্স)" tvg-logo="https://sunplex.net/iptv/logo/t-sports.jpg" group-title="স্পোর্টস",টি স্পোর্টস
 http://172.20.3.1:3255/tspots_combo/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://172.16.29.2:8090/hls/BeinSports1ENG.m3u8
@@ -181,14 +187,23 @@ http://172.16.29.2:8090/hls/StarSports1HD.m3u8
 http://172.16.29.2:8090/hls/StarSports2HD.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="স্পোর্টস",স্পোর্টস
 http://103.89.248.130:8082/star-gold/index.m3u8
+#EXTINF:-1 tvg-name="সনি আট ৪" tvg-logo="http://zee5.mw.lt/Abcd/aath2.png" group-title="live",#
 http://103.89.248.130:8082/SONY-MAX/index.m3u8
+#EXTINF:-1 tvg-name="সনি আট ৪" tvg-logo="http://zee5.mw.lt/Abcd/aath2.png" group-title="live",#
 http://103.89.248.130:8082/DBC-NEWS/index.m3u8
+#EXTINF:-1 tvg-name="সনি আট ৪" tvg-logo="http://zee5.mw.lt/Abcd/aath2.png" group-title="live",#
 http://103.89.248.130:8082/SANGEET-BANGLA/index.m3u8
+#EXTINF:-1 tvg-name="সনি আট ৪" tvg-logo="http://zee5.mw.lt/Abcd/aath2.png" group-title="live",#
 http://103.89.248.130:8082/GAANBANGLA-TV/index.m3u8
+#EXTINF:-1 tvg-name="সনি আট ৪" tvg-logo="http://zee5.mw.lt/Abcd/aath2.png" group-title="live",#
 http://103.89.248.130:8082/9XM/index.m3u8
+#EXTINF:-1 tvg-name="সনি আট ৪" tvg-logo="http://zee5.mw.lt/Abcd/aath2.png" group-title="live",#
 http://103.89.248.130:8082/BTV-WORLD/index.m3u8
+#EXTINF:-1 tvg-name="সনি আট ৪" tvg-logo="http://zee5.mw.lt/Abcd/aath2.png" group-title="live",#
 http://172.21.20.222:8080/GAZITV-1/index.m3u8
+#EXTINF:-1 tvg-name="সনি আট ৪" tvg-logo="http://zee5.mw.lt/Abcd/aath2.png" group-title="live",#
 http://172.16.29.2:8090/hls/gazitvhd.m3u8
+#EXTINF:-1 tvg-name="সনি আট ৪" tvg-logo="http://zee5.mw.lt/Abcd/aath2.png" group-title="live",#
 http://172.20.3.1:3255/DW-NEWS-HD/index.m3u8
 
 
