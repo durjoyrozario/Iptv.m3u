@@ -95,11 +95,17 @@ http://103.89.248.130:8082/Chanal24/index.m3u8
 http://103.89.248.130:8082/INDEPENDENT-NEWS/index.m3u8
 #EXTINF:-1 tvg-name="ইন্ডিপেন্ডেন্ট টেলিভিশন" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="live", ইন্ডিপেন্ডেন্ট টেলিভিশন
 http://172.20.3.1:3255/indopendettv/index.m3u8
+#EXTINF:-1 tvg-name="একাত্তর টিভি(সানপ্লেক্স)" tvg-logo="http://zee5.mw.lt/Abcd/ekattor.png" group-title="live", একাত্তর টিভি (সানপ্লেক্স)
 http://172.20.3.1:3255/ekattor_nk/index.m3u8
+#EXTINF:-1 tvg-name="দীপ্ত" tvg-logo="http://zee5.mw.lt/Abcd/deepto2.png" group-title="live", দীপ্ত
 http://172.20.3.1:3255/deeptho_nk/index.m3u8
+#EXTINF:-1 tvg-name="সময় টিভি" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="live",সময় টিভি
 http://172.20.3.1:3255/somyyt/index.m3u8
+#EXTINF:-1 tvg-name=" চ্যানেল টোয়েন্টিফোর" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="live",চ্যানেল টোয়েন্টিফোর
 http://172.20.3.1:3255/CH24/index.m3u8
+#EXTINF:-1 tvg-name="যমুনা টিভি" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="live", যমুনা টিভি
 http://172.20.3.1:3255/JAMUNATV/index.m3u8
+#EXTINF:-1 tvg-name="চ্যানেল আই" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="live",চ্যানেল আই
 http://172.20.3.1:3255/chnnel-i/index.m3u8
 http://172.16.29.2:8090/hls/IndependentTV.m3u8
 http://103.89.248.130:8082/BTV/index.m3u8
