@@ -71,17 +71,29 @@ http://103.89.248.130:8082/MAASRANGA-TV/index.m3u8
 http://172.21.20.222:8080/nick/index.m3u8
 #EXTINF:-1 tvg-id="1345" tvg-name="নিক বাংলা" tvg-logo="http://zee5.mw.lt/Abcd/nick.png" group-title="কিডস্", নিক বাংলা
 http://172.20.3.1:3255/NICK/index.m3u8
+#EXTINF:-1 tvg-logo="http://zee5.mw.lt/Abcd/xp2.png" group-title="ট্রাভেল", ট্রাভেল এক্স পি বাংলা
 http://172.20.3.1:3255/TRAVELXP-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="দীপ্ত" tvg-logo="http://zee5.mw.lt/Abcd/deepto2.png" group-title="live", দীপ্ত
 http://103.89.248.130:8082/DEEPTO/index.m3u8
+#EXTINF:-1 tvg-name="দীপ্ত" tvg-logo="http://zee5.mw.lt/Abcd/deepto2.png" group-title="live", দীপ্ত
 http://172.21.20.222:8080/Deepto/index.m3u8
+#EXTINF:-1 tvg-name="চ্যানেল আই" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="live",চ্যানেল আই
 http://103.89.248.130:8082/CHANNAL-I/index.m3u8
+#EXTINF:-1 tvg-name="যমুনা টিভি" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="live", যমুনা টিভি
 http://172.16.29.2:8090/hls/JamunaTV.m3u8
+#EXTINF:-1 tvg-name="চ্যানেল আই" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="live",চ্যানেল আই
 http://172.21.20.222:8080/Channeli/index.m3u8
+#EXTINF:-1 tvg-name="চ্যানেল আই" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="live",চ্যানেল আই
 http://172.16.29.2:8090/hls/channelihd.m3u8
+#EXTINF:-1 tvg-name=" চ্যানেল টোয়েন্টিফোর" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="live",চ্যানেল টোয়েন্টিফোর
 http://103.89.248.130:8082/Chanal24/index.m3u8
+#EXTINF:-1 tvg-name="ইন্ডিপেন্ডেন্ট টেলিভিশন" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="live", ইন্ডিপেন্ডেন্ট টেলিভিশন
 http://103.89.248.130:8082/INDEPENDENT-NEWS/index.m3u8
+#EXTINF:-1 tvg-name=" চ্যানেল টোয়েন্টিফোর" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="live",চ্যানেল টোয়েন্টিফোর
 http://103.89.248.130:8082/Chanal24/index.m3u8
+#EXTINF:-1 tvg-name="ইন্ডিপেন্ডেন্ট টেলিভিশন" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="live", ইন্ডিপেন্ডেন্ট টেলিভিশন
 http://103.89.248.130:8082/INDEPENDENT-NEWS/index.m3u8
+#EXTINF:-1 tvg-name="ইন্ডিপেন্ডেন্ট টেলিভিশন" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="live", ইন্ডিপেন্ডেন্ট টেলিভিশন
 http://172.20.3.1:3255/indopendettv/index.m3u8
 http://172.20.3.1:3255/ekattor_nk/index.m3u8
 http://172.20.3.1:3255/deeptho_nk/index.m3u8
