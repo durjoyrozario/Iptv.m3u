@@ -23,7 +23,7 @@ http://103.89.248.130:8082/Sony-Aath/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)"  tvg-logo="http://zee5.mw.lt/Abcd/sony-aath-new.png" group-title="", সনি আট সানপ্লেক্স
 http://172.21.20.222:8080/sony-aath/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)"  tvg-logo="http://zee5.mw.lt/Abcd/sony-aath-new.png" group-title="", সনি আট সানপ্লেক্স
-http://172.16.29.2:8090/hls/SonyAtth.m3u8
+http://cdn.moviemazic.xyz:8083/Feedget/SonyAath_7/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)"  tvg-logo="http://zee5.mw.lt/Abcd/sony-aath-new.png" group-title="", সনি আট সানপ্লেক্স
 http://172.20.3.1:3255/SonyAath/index.m3u8
 #EXTINF:-1 tvg-name="একাত্তর টিভি(সানপ্লেক্স)" tvg-logo="http://zee5.mw.lt/Abcd/ekattor.png" group-title="live", একাত্তর টিভি (সানপ্লেক্স)
